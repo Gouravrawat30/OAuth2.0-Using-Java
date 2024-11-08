@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/lib/imap.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/lib/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/lib/sinetfactory.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-api-client-1.23.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-api-client-1.31.5.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-api-services-gmail-v1-rev110-1.25.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-http-client-1.39.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-http-client-1.45.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-http-client-gson-1.44.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-http-client-jackson2-1.43.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-oauth-client-1.23.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-oauth-client-java6-1.36.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-oauth-client-jetty-1.31.5.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/google-oauth-client-jetty-1.36.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/grpc-api-1.65.1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/grpc-context-1.65.1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/grpc-util-1.65.1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/guava-3.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/jackson-annotations-2.16.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/jackson-core-2.15.3.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/jackson-databind-2.15.4.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/opencensus-api-0.31.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/opencensus-contrib-http-util-0.31.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaxmailOAuth2.0/jkartagmailsender/OAuthSendGmail/used_lib/org.json-chargebee-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gourav rawat/Downloads/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_202"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
